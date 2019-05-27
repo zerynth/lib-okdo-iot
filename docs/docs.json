@@ -1,0 +1,2 @@
+{"version": "1.0.0", "title": "OKdo IoT Cloud", "copyright": "Zerynth Team", "files": [ [ "IoT", "iot.py" ], ["MQTT Client","mqtt_client.py" ], ["HTTP Client","http_client.py"]] }
+
