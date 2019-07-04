@@ -1,0 +1,13 @@
+---
+description: OKdo IoT Cloud module
+fullname: lib.okdo.iot
+info:
+    chip_manufacturer: '-'
+    chip_name: '-'
+    name: Zerynth OKdo IoT Library
+    type: IoT Cloud
+keywords:
+- OKdo
+- iot
+title: OKdo IoT Library
+...
